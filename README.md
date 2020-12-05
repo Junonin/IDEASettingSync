@@ -1,0 +1,2 @@
+# IDEASettingSync
+IDEA配置
