@@ -5,6 +5,7 @@
         <option name="database" value="SqlServer" />
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="useActualParamNames" value="true" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
