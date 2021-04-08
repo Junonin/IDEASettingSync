@@ -14,6 +14,7 @@
       <map>
         <entry key="IncomingChanges" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="WakaTime" value="false" />
       </map>
     </option>
   </component>
